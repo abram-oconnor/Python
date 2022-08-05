@@ -17,7 +17,7 @@ emailSubject = open('emailContents/emailSubject.txt')
 emailSubject = emailSubject.read()
 
 from_address = email
-to_address = email
+to_address = input('Input their email: ')
 subject = emailSubject
 message = emailBody
 msg = "Subject: "+subject+'\n'+message
