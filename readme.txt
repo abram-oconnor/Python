@@ -1,0 +1,1 @@
+The purpose of this script is to allow the automation of sending out emails to new hires to allow them to specify which items they would like for their work from home setup.
